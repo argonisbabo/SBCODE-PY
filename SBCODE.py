@@ -30,4 +30,4 @@ while True:
         print("Close the terminal website.")
         break
     
-#made by SB Wed/Feb/4/2026 10:04am / Sign up and Login system!!! I think this is wonderfull system to me.
+#made by SB Wed/Feb/4/2026 10:04am / Sign up and Login system!!! I think this is wonderful system to me.
